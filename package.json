@@ -1,0 +1,29 @@
+{
+  "name": "mock0",
+  "version": "0.0.1",
+  "description": "Dookbook Document Library (Mock 0).",
+  "main": "index.js",
+  "dependencies": {
+    "markdownlint-cli": "^0.17.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "markdownlint --silent --ignore node_modules/ ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dookbook/mock0.git"
+  },
+  "keywords": [
+    "dookbook",
+    "developer-documentation",
+    "markdown",
+    "developer-productivity"
+  ],
+  "author": "Li Yun <leven.cn@gmail.com>",
+  "license": "APLv2",
+  "bugs": {
+    "url": "https://github.com/dookbook/mock0/issues"
+  },
+  "homepage": "https://dookbook.info/"
+}
