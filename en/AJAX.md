@@ -8,7 +8,7 @@ AUTHORS: Michael[tm] Smith; mike@w3.org; github:sideshowbarker
          Rogerio de Moraes; rogeriomoraessp@mozilla.net; mdn:rogeriomoraessp
          Federico Culloca; federicoculloca@github.com; github:federicoculloca
          Andrew Pfeiffer; Andrew_Pfeiffer@mozilla.net; mdn:Andrew_Pfeiffer
-         Eric Shepherd; a2sheppy@github.com; gitlub:a2sheppy 
+         Eric Shepherd; a2sheppy@github.com; github:a2sheppy
 
 # AJAX
 
