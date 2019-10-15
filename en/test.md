@@ -21,6 +21,7 @@ The second paragraph. Windows lets you perform most tasks directly from the keyb
 This page lists out the default bindings (keyboard shortcuts).
 
 Windows lets you perform most tasks directly from the keyboard.
+Windows lets you perform most tasks directly from the keyboard.
 
 A [link](https://dookbook.info/).
 A **strong text**,
